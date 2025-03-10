@@ -1,0 +1,9 @@
+form{
+    background-color: aqua;
+    border-style: double;
+    border-radius: 25px;
+    padding: 2%;
+}
+label{
+    background-color: white;
+}
